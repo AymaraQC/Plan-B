@@ -1,29 +1,29 @@
 {
   "main": [
     {
-      "name": "Home",
+      "name": "Inicio",
       "url": "/"
     },
     {
-      "name": "Blog",
+      "name": "Carreras",
       "url": "/blogs"
     },
     {
-      "name": "Pricing",
+      "name": "Personalizar",
       "url": "/pricing"
     },
     {
-      "name": "Contact",
+      "name": "Apuntes",
       "url": "/contact"
     },
     {
-      "name": "FAQ",
+      "name": "Foro de Teams",
       "url": "/faq"
     }
   ],
   "footer": [
     {
-      "name": "Company",
+      "name": "Company BORRAR",
       "menu": [
         {
           "text": "Pricing",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "Product",
+      "name": "Product BORRAR",
       "menu": [
         {
           "text": "Features",
@@ -53,7 +53,7 @@
       ]
     },
     {
-      "name": "Support",
+      "name": "Support BORRAR",
       "menu": [
         {
           "text": "FAQ",
