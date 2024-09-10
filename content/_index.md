@@ -1,8 +1,7 @@
 ---
 banner:
-  title: ACA EDITAS EL INICIO
-
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus.
+  title: Bienvenido a nuestra pagina de plan de estudios
+  content: Usted se encuentra en la pagina para Planes de Estudio <br/> En esta pagina sirve para facilirtarle organizar su horario y personalizar su plan de estudio.
   image: /images/banner-art.svg
   button:
     label: "Contact Us"
@@ -33,16 +32,16 @@ feature:
 
 # services
 services:
-  - title: "It is the most advanced digital marketing and it company."
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+  - title: "Le recomedamos empezar eligiendo su carrera."
+    content: "Seleccionando Carreras podrá acceder a las carreras disponibles, Seleccione su carrera. Luego podrá visualizar las asignaturas de la carrera seleccionada y acceder su informacion."
     images:
       - "/images/service-slide-1.png"
       - "/images/service-slide-2.png"
       - "/images/service-slide-3.png"
     button:
       enable: true
-      label: Check it out
-      link: /contact
+      label: Carreras
+      link: /blogs
 
   - title: "It is a privately owned Information and cyber security company"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
