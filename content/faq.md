@@ -1,9 +1,9 @@
 ---
-title: Grupos de Carrera
+title: ¿Querés poder comunicarte con otros estudiantes de tu misma carrera?
 
 layout: faq
 draft: false
 faqs:
-  - title: Como me uno a los grupos?
-    answer: ¡Facíl!. A continuacion encontraras un link que te llevara a Teams. Estando ahi podras elegir el grupo que quieras! segun tu carrera, claro. (FALTA mas informacion de lo que encontrsras ahi. tenes que tener una cuenta de teams. )
+  - title: ¿Cómo me uno a los equipos?
+    answer: ¡Facíl!. A continuacion encontraras varios links que te redirigiran a Teams, cada uno con las carreras respectivas de la Faculñtad. Estrando a la carrera que elegste podras acceder a cualquier año de la carrera!.
 ---

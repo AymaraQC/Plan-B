@@ -23,48 +23,34 @@
   ],
   "footer": [
     {
-      "name": "Company BORRAR",
+      "name": "Ingeniería en Informatica",
       "menu": [
         {
-          "text": "Pricing",
+          "text": "Primer año",
+          "url": "Ingeniería en sistemas. | General | Microsoft Teams"
+        },
+        {
+          "text": "Segundo año",
+          "url": "#"
+        },
+        {
+          "text": "Tercer año",
           "url": "/pricing"
         },
         {
-          "text": "Quick Start",
-          "url": "#"
-        }
-      ]
-    },
-    {
-      "name": "Product BORRAR",
-      "menu": [
-        {
-          "text": "Features",
+          "text": "Cuarto año",
           "url": "#"
         },
         {
-          "text": "Platform",
+          "text": "Quinto año",
           "url": "#"
         },
         {
-          "text": "Pricing",
-          "url": "/pricing"
-        }
-      ]
-    },
-    {
-      "name": "Support BORRAR",
-      "menu": [
-        {
-          "text": "FAQ",
-          "url": "/faq"
-        },
-        {
-          "text": "Privacy Policy",
+          "text": "Sexto año",
           "url": "#"
         },
         {
-          "text": "Terms & Conditions",
+          "text": "Septimo año",
           "url": "#"
         }
       ]
